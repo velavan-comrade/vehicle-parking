@@ -1,0 +1,214 @@
+Computer Science Courses
+Advanced Algorithms - Free Online Video - Jelani Nelson, Harvard
+Advanced Data Structures - Free Online Video - Free Course Info & Video - Erik Demaine, MIT
+Advanced Operating Systems Structures and Implementation - Free Online Video - John Kubiatowicz, UC Berkeley
+Algorithms, Part I - Massive Open Online Course (MOOC) - Robert Sedgewick, Princeton
+Algorithms, Part II - Massive Open Online Course (MOOC) - Robert Sedgewick, Princeton
+Algorithm Design and Analysis - Free iTunes Video - Free Online Video - Dan Gusfield, UC Davis
+Algorithms for Big Data - Free Online Video - Multiple professors, Harvard
+Algorithmic Lower Bounds: Fun with Hardness Proofs - Free iTunes Video - Free Online Video + Course Info - Free Online Video - Erik Demaine, MIT
+Android Development - Free Online Audio - David Fisher, UC Berkeley
+AI for Everyone - Massive Open Online Course (MOOC) - Andrew Ng, Stanford
+Applied AI with DeepLearning - Massive Open Online Course (MOOC) - IBM
+Artificial Intelligence - Free Online Course - Patrick Winston, MIT
+Online computer science courses to jumpstart your future.
+Artificial Intelligence - Free Online Video - Pieter Abbeel, UC Berkeley
+Artificial Intelligence - Introduction to Robotics - Free Online Video - Free iTunes Video - Free Course in Multiple formats - Oussama Khatib, Stanford
+Artificial Intelligence - Natural Language Processing - Free Course in Multiple formats - Christopher Manning, Stanford
+Artificial Intelligence - Machine Learning - Free Online Video - Free iTunes Video - Free Course in Multiple formats - Andrew Ng, Stanford
+Artificial Intelligence - Free Online Video - Free Video Download - P.Dasgupta, IIT
+Basic Concepts of Operating Systems & System Programming - Free Online Video - Anthony Stoica, Anthony Joseph, UC Berkeley
+Bitcoin and Cryptocurrency Technologies - Free Online Video - Arvind Narayanan, Princeton
+Bitcoin and Cryptocurrency Technologies - Massive Open Online Course (MOOC) - Arvind Narayanan, Princeton
+Bits: The Computer Science of Digital Information - Free Course in Multiple Formats - Harry Lewis, Harvard
+Blender 3D Design - Free iTunes iOS Course - Course Info - Neal Hirsig, Tufts
+Building Dynamic Web Sites - Free iTunes Video & Audio - Free Course Video & Audio - David Malan, Harvard Extension
+Building Mobile Applications - Free iTunes Audio - Free Course Info & Video - David Malan, Harvard Extension
+Calling Bullshit in the Age of Big Data - Free Online Video - Carl Bergstrom and Jevin West, University of Washington
+C Programming: Getting Started - Massive Open Online Course (MOOC) - Dartmouth
+Codecademy - Web Site
+Coding Together: Apps for iPhone and iPad (2013) - Free iTunes Video - Paul Hegarty, Stanford
+Computational Camera and Photography - Free Online Audio - Course Info - Ramesh Raskar, MIT
+Computational Discrete Mathematics - Free Web Course - Carnegie Mellon
+Computer Architecture - Free Online Video - Free Video Download - Anshul Kumar, IIT Delhi
+Computer Graphics - Free iTunes Video - Kenneth Joy, UC Davis
+Computer Graphics - Free Online Video - Free Video Download - Sukhendu Das, IIT
+Computer Language Engineering - Free Course Materials & Video - Martin Rinard, MIT
+Computer Networks - Free Online Video - Free Video Download -  S.Ghosh, IIT
+Computer Science: Foundations of Computer & Information Security - Free iTunes Video - Matt Bishop, UC Davis
+Computer Systems - Free iTunes Video - Stan Warford, Pepperdine
+Computer System Engineering - Free Course Materials & Video - Robert Morris & Samuel Madden, MIT
+Computer Systems Security - Free Online Video - Free Online Video + Course Info - Nickolai Zeldovich, MIT
+Convolutional Neural Networks - Massive Open Online Course (MOOC) - Andrew Ng
+Cryptocurrency and Blockchain: An Introduction to Digital Currencies - Massive Open Online Course (MOOC) - University of Pennsylvania/Wharton
+CS50, Harvard's Introductory Computer Science Course (2017) - Free Online Course - David Malan, Harvard
+CS50, Harvard's Introductory Computer Science Course (2016) - Free Online Course - David Malan, Harvard
+Cybersecurity and Its Ten Domains - Massive Open Online Course (MOOC) - Georgia Tech
+Cybersecurity Fundamentals - Massive Open Online Course (MOOC) - RIT
+Cybersecurity Risk Management - Massive Open Online Course (MOOC) - University of Washington
+Data Science (What is Data Science?) - Massive Open Online Course (MOOC) - IBM
+Database Systems Design - Free iTunes Video - Rob Meredith, Monash University
+Data Structures - Free Online Video - Jonathan Shewchuk, UC Berkeley
+Data Structures - Free Online Video - Paul Hilfinger, UC Berkeley
+Data Structures and Algorithms - Free Online Video - Richard Buckland, University of New South Wales
+Data Structures - Free iTunes Video - Stan Warford, Pepperdine
+Deep Learning Explained - Massive Open Online Course (MOOC) - Microsoft
+Deep Learning - Free Online Video - Vincent Vanhoucke, Google
+Deep Learning - Free Online Video - Nando de Freitas, Oxford
+Design and Analysis of Algorithms - Free iTunes Video -  Charles Martel, UC Davis
+Design in Computing - Free Online Video - Richard Buckland, University of New South Wales
+Developing iOS 9 Apps with Swift - Free iTunes Video - Paul Hegarty, Stanford
+Developing iOS 10 Apps with Swift - Free iTunes Video - Paul Hegarty, Stanford
+Developing iPad Applications for Visualization and Insight - Free iTunes Video - Niki Kittur, Carnegie Mellon
+Discrete Mathematical Structures - Free Online Video - Free Video Download - Kamala Krithivasan, IIT
+Discrete Mathematics and Probability Theory - Free Online Video - Umesh Vazirani, UC Berkeley
+Discrete Stochastic Processes -  Free Online Video - Free iTunes Video - Free Course Materials & Video - Robert Gallagher, MIT
+Discrete Structures - Free iTunes Video - Sergio Dibiasi, Rutgers
+Discrete Structures - Free iTunes Video - Stan Warford, Pepperdine
+Efficient Algorithms and Intractable Problems - Free Online Video - Christos Papadimitriou & Satish Rao, UC Berkeley
+Essential Math for Machine Learning: Python Edition - Massive Open Online Course (MOOC) - Microsoft
+Foundations of Computer Graphics - Free Online Video - Ravi Ramamoorthi, UC Berkeley
+Google Cloud Platform Fundamentals: Core Infrastructure - Massive Open Online Course (MOOC) - Google
+Graphics Architecture - Free iTunes Video - Free Online Video - John Owens, UC Davis
+Great Insights in Computing - Free iTunes Audio & Video - Rutgers
+Higher Computing - Free Online Video - Richard Buckland, University of New South Wales
+Human-Computer Interaction Seminar - Free Online Video - Free iTunes Video - Multiple Staff, Stanford
+Learn to Program in Java - Massive Open Online Course (MOOC) - Microsoft
+Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization - Massive Open Online Course (MOOC) - Andrew Ng
+Innovative Computing - Free Online Video - Multiple Profs, Harvard
+Intensive Introduction to Computer Science Using C, PHP, and JavaScript - Multiple Formats - Free Online Video - Free iTunes Video - David Malan, Harvard
+Internet of Things: Communication Technologies - Massive Open Online Course (MOOC) - UC-San Diego
+Introduction to Artificial Intelligence (AI) - Massive Open Online Course (MOOC) - Microsoft
+Introduction to AI Robotics - Free iTunes Video -  Robin Murphy, Texas A & M
+Introduction to Algorithms - Free iTunes Video - Free Online Video - Free Course Materials & Video - Prof. Charles Leiserson & Erik Demaine, MIT
+Introduction to Computer Graphics & GPU Programming - Free iTunes Video - Eric Chan & Hanspeter Pfister, Harvard
+Introduction to Computer Science and Programming in Python - Free Online Video - Eric Grimson, John Guttag, and Ana Bell, MIT
+Introduction to Computational Thinking and Data Science - Free Online Video - Eric Grimson, John Guttag, and Ana Bell, MIT
+Introduction to Computer Science and Programming (Using Python) - Free Online Course - John Guttag, MIT
+Introduction to Computer Science: Programming Methodology - Free Online Video - Free iTunes Video - Free Course in Multiple formats - Mehran Sahami, Stanford
+Introduction to Computer Science: Programming Abstractions - Free Online Video - Free iTunes Video - Free Course in Multiple formats - Julie Zelenski, Stanford
+Introduction to Computer Science: Programming Paradigms - Free Online Video - Free iTunes Video - Free Course in Multiple formats - Jerry Cain, Stanford
+Introduction to Computer Architecture (2013) - Free Online Video - Course Info - Onur Mutlu, Carnegie Mellon
+Introduction to Computer Architecture (2012) - Free Online Video - Course Info - Onur Mutlu, Carnegie Mellon
+Introduction to Computer Graphics - Free Online Video - Free Video Download - Prem Kalra, IIT
+Introduction to Computing for Non-Majors - Free iTunes Video - JT Chirco, Rutgers
+Introduction to Computing - Free iTunes Video - JT Chirco, Rutgers
+Introduction to Cybersecurity - Massive Open Online Course (MOOC) - Open University
+Introduction to Cybersecurity - Massive Open Online Course (MOOC) - University of Washington
+Introduction to Cybersecurity Tools & Cyber Attacks - Massive Open Online Course (MOOC) - IBM
+Introduction to Electrical Engineering and Computer Science I - Free Online Video - Free iTunes Video - Free Courses Materials & Video - Multiple Professors, MIT
+Introduction to Embedded Systems - Free Online Video - UNC Charlotte, James Conrad
+Introduction to Formal Systems & Computation - Free iTunes Video - Multiple profs, Harvard
+Introduction to Information Studies - Free iTunes Audio - Robert Frost, University of Michigan
+Introduction to iPhone Application Development - Free iTunes Video - Kenneth Joy, UC Davis
+Introduction to Linux - Free Online Video - The Linux Foundation
+Introduction to Problem Solving & Programming - Free Online Video - Free Video Download - Deepak Gupta, IIT
+An Introduction to Practical Deep Learning - Massive Open Online Course (MOOC) - Intel
+Introduction to Python: Absolute Beginner - Massive Open Online Course (MOOC) - Microsoft
+Introduction to Python: Fundamentals - Massive Open Online Course (MOOC) - Microsoft
+Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning - Massive Open Online Course (MOOC) - Laurence Moroney, Google
+Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization - Massive Open Online Course (MOOC) - Andrew Ng
+iPhone Application Development in iOS5 (Fall 2011) - Free iTunes HD Video - Free iTunes Standard-Def Video
+IT Security: Defense against the digital dark arts - Massive Open Online Course (MOOC) - Google
+Linux Implementation/Administration Practicum - Free iTunes Video - Tulio Llosa, U of Illinois, Springfield
+Learning from Data: A Machine Learning Course - Free Online Video - Yaser Abu-Mostafa, Caltech
+Local Area Network - Free iTunes Audio - Eugene Stafford, Iona College
+Logic & Proofs - Free Web Course - Carnegie Mellon
+Machine Learning - Massive Open Online Course (MOOC) - Andrew Ng, Stanford
+Machine Learning - Free iTunes Video - Yaser S. Abu-Mostafa, CalTech
+Machine Learning - Free Online Video - Nando de Freitas, Oxfordf
+Machine Learning Crash Course - Free Online Video - Google
+Machine Learning with Python: A Practical Introduction - Massive Open Online Course (MOOC) - IBM
+Machine Structures - Free Online Video - Michael Franklin, Daniel Garcia, UC Berkeley
+Massively Parallel Computing - Free iTunes Video - Harvard
+Mathematics for Computer Science - Free Online Course Materials & Video - Tom Leighton, MIT
+Media Programming - Free Web Course - Carnegie Mellon
+Mobile Software Engineering - Free Video + Courses Info - David Malan, Harvard
+Multicore Programming Primer - Free iTunes Video - Free Online Video & Course Materials - Saman Amarasinghe, MIT
+Network Security - Free iTunes Audio - Eugene Stafford, Iona
+Neural Networks and Deep Learning - Massive Open Online Course (MOOC) - Andrew Ng, Stanford
+Neural Networks for Machine Learning - Free Online Video - Geoffrey Hinton, University of Toronto
+Operating Systems and System Programming  - Free Online Video - Multiple professors, UC Berkeley
+Performance Engineering of Software Systems - Free Online Video - Free Video & Course Info- Multiple Professors, MIT
+Principles of Computing - Free Web Course - Carnegie Mellon
+Principles of Digital Communications I - Free Online Video - Free iTunes Video - Free Online Video & Course Info - Profs Gallagher and Zheng, MIT
+Principles of Digital Communications II - Free Online Video - Free Online Video & Course Info - MIT
+Probabilistic Systems Analysis and Applied Probability - Free Online Video - Free Video & Course Info - John Tsitsiklis, MIT
+Programming for Everybody (Getting Started with Python) - Massive Open Online Course (MOOC) - University of Michigan
+Programming Languages, Part A - Massive Open Online Course (MOOC) - University of Washington
+Programming Languages, Part B - Massive Open Online Course (MOOC) - University of Washington
+Programming Languages and Compilers - Free Online Video - Ras Bodik, UC Berkeley
+Programming for Designers - Free Online Video - UNSW
+Python - Free Online Course - Nick Parlante, Google
+Python - Free Online Course - John Guttag, MIT
+Python for Data Science and AI - Massive Open Online Course (MOOC) - IBM
+Quantum Computing for the Determined - Free Online Video - Michael Nielsen, The University of Queensland
+Ray Tracing for Global Illumination - Free Online Video - Free iTunes Video - Nelson Max, UC Davis
+Responsible Computing - Free Web Course - Carnegie Mellon
+Search Engines: Technology, Society and Business - Free Online Video - Marti Hearst, UC Berkeley
+Signal Processing on Databases - Free iTunes Video - Jeremy Kepner, MIT
+Software as a Service - Free Online Video - Armando Fox and David Patterson, UC Berkeley
+Software Engineering: Introduction - Massive Open Online Course (MOOC) - University of British Columbia
+Startups - Lecture Notes - Peter Thiel, Stanford
+TCP/IP - Free iTunes Audio - Eugene Stafford, Iona College
+Technical Support Fundamentals - Massive Open Online Course (MOOC) - Google
+The Beauty and Joy of Computing - Free Online Video - Dan Garcia, UC Berkeley
+The Bits and Bytes of Computer Networking - Massive Open Online Course (MOOC) - Google
+The Future of the Internet - Free iTunes Audio - Ramesh Johari, Stanford
+The Society of Mind - Free Online Video - Free iTunes Video - Course Info - Marvin Minsky, MIT
+The Structure and Interpretation of Computer Programs - Free Online Video - Hal Abelson and Gerald Sussman, MIT
+Theory of Computation - Free iTunes Video - Free Online Video - UC Davis, David Gusfield
+Understanding Computers and the Internet - Free iTunes Audio & Video - Free Course Info & Video - David Malan, Harvard University
+Using Python to Access Web Data - Massive Open Online Course (MOOC) - Charles Severance, University of Michigan
+Virtual Reality - Free Online Video + Course Materials - Steven LaValle, IIT, Madras
+Visual Navigation for Flying Robots - Free Online Video - Juergen Sturm, Technische Universität München
+Wide Area Networks - Free iTunes Audio - Eugene Stafford, Iona College
+Wireless Networking - Free iTunes Audio - Eugene Stafford, Iona College
+XML with Java - Free iTunes Audio - Free Course Info - David Malan, Harvard
+Bookmark our collection of free online course in Computer Science. Also find comp sci textbooks in our Free Textbook collection.
+
+
+
+Data Science Courses
+Note: This section includes a lot of Massive Open Online Courses (MOOCs). If you want to enroll in a free version of a MOOC, please select the "Full Course, No Certificate" (edX) or "Audit" (Coursera) option. If you opt to take the course for a certificate/credential, you will be charged.
+
+A Crash Course in Data Science - Massive Open Online Course (MOOC) - Johns Hopkins
+Applied Data Science - Massive Open Online Course (MOOC) - IBM
+Building a Data Science Team - Massive Open Online Course (MOOC) - Johns Hopkins
+Creating Dashboards and Storytelling with Tableau - Massive Open Online Course (MOOC) - UC Davis
+Data Science (What is Data Science?) - Massive Open Online Course (MOOC) - IBM
+Databases and SQL for Data Science - Massive Open Online Course (MOOC) - IBM
+Data Science Ethics - Massive Open Online Course (MOOC) - University of Michigan
+Data Science: Linear Regression - Massive Open Online Course (MOOC) - Harvard
+Data Science Methodology - Massive Open Online Course (MOOC) - IBM
+Data Science: Probability - Massive Open Online Course (MOOC) - Harvard
+Data Science: Productivity Tools - Massive Open Online Course (MOOC) - Harvard
+Data Science Tools - Massive Open Online Course (MOOC) - IBM
+Data Science: Machine Learning - Massive Open Online Course (MOOC) - Harvard
+Data Science Math Skills - Massive Open Online Course (MOOC) - Duke University
+Data Science: Probability - Massive Open Online Course (MOOC) - Harvard
+Data Science: R Basics - Massive Open Online Course (MOOC) - Harvard
+Data Science: Visualization - Massive Open Online Course (MOOC) - Harvard
+Data Science: Wrangling - Massive Open Online Course (MOOC) - Harvard
+Developing Data Products - Massive Open Online Course (MOOC) - Johns Hopkins
+Essential Design Principles for Tableau - Massive Open Online Course (MOOC) - UC Davis
+Exploratory Data Analysis - Massive Open Online Course (MOOC) - Johns Hopkins
+Getting and Cleaning Data - Massive Open Online Course (MOOC) - Johns Hopkins
+Inferential Statistics - Massive Open Online Course (MOOC) - University of Amsterdam
+Introduction to Big Data - Massive Open Online Course (MOOC) -  Microsoft
+Introduction to Computational Thinking and Data Science - Massive Open Online Course (MOOC) - Eric Grimson, John Guttag, and Ana Bell, MIT
+Introduction to Data Science in Python - Massive Open Online Course (MOOC) - University of Michigan
+Introduction to Probability - Massive Open Online Course (MOOC) - Harvard
+Introduction to R for Data Science - Massive Open Online Course (MOOC) - Microsoft
+Linear Regression and Modeling - Massive Open Online Course (MOOC) - Duke University
+Machine Learning - Massive Open Online Course (MOOC) - Andrew Ng, Stanford
+Managing Data Analysis - Massive Open Online Course (MOOC) - Johns Hopkins
+Open Source Tools for Data Science - Massive Open Online Course (MOOC) - IBM
+Practical Machine Learning - Massive Open Online Course (MOOC) - Johns Hopkins
+Probability and Statistics in Data Science using Python - Massive Open Online Course (MOOC) - UCSD
+Python for Data Science and AI - Massive Open Online Course (MOOC) - IBM
+Python Data Structures - Massive Open Online Course (MOOC) - University of Michigan
+R Programming - Massive Open Online Course (MOOC) - Johns Hopkins
+Reproducible Research - Massive Open Online Course (MOOC) - Johns Hopkins
+Statistics and R - Massive Open Online Course (MOOC) - Harvard
+The Data Scientist’s Toolbox - Massive Open Online Course (MOOC) - Johns Hopkins
